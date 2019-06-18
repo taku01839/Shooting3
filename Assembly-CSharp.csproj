@@ -61,9 +61,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Boss\NewBehaviourScript.cs" />
+    <Compile Include="Assets\Scripts\Enemy\Bullet.cs" />
+    <Compile Include="Assets\Scripts\Enemy\EnemyAttack.cs" />
+    <Compile Include="Assets\Scripts\Enemy\EnemyHelth.cs" />
     <Compile Include="Assets\Scripts\Enemy\EnemyMove.cs" />
-    <Compile Include="Assets\Scripts\Player\NewBehaviourScript.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/K018A1439/2年/前期短期制作/Shooting3/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
