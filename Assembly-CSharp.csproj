@@ -60,7 +60,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Player\Bullet\PlayerBomb.cs" />
     <Compile Include="Assets\Scripts\Player\Bullet\PlayerBullet.cs" />
+    <Compile Include="Assets\Scripts\Player\Bullet\PlBombParticle.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerHealth.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerMove.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerShoot.cs" />
