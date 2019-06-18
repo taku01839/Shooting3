@@ -20,6 +20,7 @@ GameObject:
   - component: {fileID: 4916266381603892493}
   - component: {fileID: 286144792992837030}
   m_Layer: 9
+<<<<<<< HEAD:Assets/Prefab/Bullet.prefab
 =======
   - component: {fileID: 3931230249394019618}
   - component: {fileID: 1388663778849251598}
@@ -29,6 +30,9 @@ GameObject:
   m_Layer: 10
 >>>>>>> 75493b73f08fd4e7282e54f8f114b1d11ef3fcf9
   m_Name: Bullet
+=======
+  m_Name: PlayerBullet
+>>>>>>> 4b0735a0836d75f13f0d8915d3ed59974e8de2eb:Assets/Prefab/PlayerBullet.prefab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
