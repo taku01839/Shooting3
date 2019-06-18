@@ -45,8 +45,6 @@ public class PlayerShoot : MonoBehaviour
             //ゲージ最低値になると撃てるようになる
             shootAble = true;
         }
-
-        Debug.Log(shootAble);
     }
 
     private void Shoot()
